@@ -1,2 +1,2 @@
 # ddos-py
-ddos script made in python by BURAK
+ddos script made in python
